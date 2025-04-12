@@ -22,8 +22,7 @@ A stylized app bar includes title, center alignment, and dynamic icon based on t
 A clear visual divider separates the featured list from the main product section for better user experience.
 
 ##output
+
 ![image](https://github.com/user-attachments/assets/bf13aa99-ebe3-46f0-bd5e-5100f926ecba)
 ![WhatsApp Image 2025-04-12 at 07 05 59_b04ffaf2](https://github.com/user-attachments/assets/ca543ac7-e786-416f-b14d-c316d1561141)
 
-
-![image](https://github.com/user-attachments/assets/782b067a-e9b0-4695-8278-497a5ff614fe)
